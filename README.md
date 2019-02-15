@@ -32,3 +32,9 @@ OOPS Design:
 3. Ludo Design
 4. Elevetor System Design
 5. Parking System Design
+
+
+Articles:
+- CAP Theorem.
+- [How to Beat the CAP Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html): Lambda Architecture
+- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
