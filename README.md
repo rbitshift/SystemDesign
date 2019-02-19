@@ -35,6 +35,11 @@ OOPS Design:
 
 
 Articles:
-- CAP Theorem.
-- [How to Beat the CAP Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html): Lambda Architecture
-- [Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
+
+- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [Eric Brewer's CAP Revisiting](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
+- [Coda Hale's You Can't Sacrifice Partition Tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance)
+- [Henry Robinson's CAP FAQ](https://github.com/henryr/cap-faq)
+- [Martin Klepmann's Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html) 
+- [Nathan Marz's How to Beat the CAP Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html): Lambda Architecture
+- [Jay Krep's Questioning the Lambda Architecture](https://www.oreilly.com/ideas/questioning-the-lambda-architecture)
