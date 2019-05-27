@@ -1,0 +1,6 @@
+- Time Series Database Requirements: https://www.xaprb.com/blog/2014/06/08/time-series-database-requirements/
+- Jason Moiron’s Thoughts on Time-series Databases
+- Preetam Jinka’s Design Notes on Catena
+- Time-Series Databases and InfluxDB
+- InfluxDB’s Storage Engine
+- The Case For Tagging In Time Series Data
